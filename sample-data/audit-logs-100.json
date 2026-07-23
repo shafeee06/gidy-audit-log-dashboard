@@ -1,0 +1,1602 @@
+[
+  {
+    "actor": "rahul.singh@company.com",
+    "role": "support",
+    "action": "DELETE_USER",
+    "resource": "/api/users/44774",
+    "resourceType": "USER",
+    "ipAddress": "186.158.253.26",
+    "region": "ap-southeast-1",
+    "severity": "CRITICAL",
+    "status": "Investigating",
+    "timestamp": "2026-04-24T05:18:52.955Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 1
+    }
+  },
+  {
+    "actor": "ananya.iyer@company.com",
+    "role": "security_engineer",
+    "action": "DELETE_USER",
+    "resource": "/api/users/53160",
+    "resourceType": "USER",
+    "ipAddress": "112.8.251.141",
+    "region": "ap-southeast-1",
+    "severity": "LOW",
+    "status": "Unresolved",
+    "timestamp": "2026-06-17T07:03:17.515Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 2
+    }
+  },
+  {
+    "actor": "priya.nair@company.com",
+    "role": "developer",
+    "action": "UPDATE_USER",
+    "resource": "/api/users/8546",
+    "resourceType": "USER",
+    "ipAddress": "15.59.100.188",
+    "region": "eu-west-1",
+    "severity": "MEDIUM",
+    "status": "False Positive",
+    "timestamp": "2026-04-27T17:45:34.203Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 3
+    }
+  },
+  {
+    "actor": "priya.nair@company.com",
+    "role": "auditor",
+    "action": "DELETE_USER",
+    "resource": "/api/sessions/75416",
+    "resourceType": "SESSION",
+    "ipAddress": "127.134.173.220",
+    "region": "us-east-1",
+    "severity": "MEDIUM",
+    "status": "Unresolved",
+    "timestamp": "2026-06-18T06:08:05.145Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 4
+    }
+  },
+  {
+    "actor": "rahul.singh@company.com",
+    "role": "admin",
+    "action": "UPDATE_USER",
+    "resource": "/api/roles/90091",
+    "resourceType": "ROLE",
+    "ipAddress": "63.102.131.166",
+    "region": "ap-southeast-1",
+    "severity": "CRITICAL",
+    "status": "Resolved",
+    "timestamp": "2026-05-11T08:04:12.599Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 5
+    }
+  },
+  {
+    "actor": "arjun.kumar@company.com",
+    "role": "auditor",
+    "action": "DELETE_USER",
+    "resource": "/api/roles/8252",
+    "resourceType": "ROLE",
+    "ipAddress": "84.141.12.96",
+    "region": "us-east-1",
+    "severity": "HIGH",
+    "status": "False Positive",
+    "timestamp": "2026-07-04T16:54:10.816Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 6
+    }
+  },
+  {
+    "actor": "vikram.rao@company.com",
+    "role": "security_engineer",
+    "action": "LOGOUT",
+    "resource": "/api/sessions/56060",
+    "resourceType": "SESSION",
+    "ipAddress": "199.48.11.130",
+    "region": "eu-west-1",
+    "severity": "HIGH",
+    "status": "Resolved",
+    "timestamp": "2026-05-29T17:31:17.155Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 7
+    }
+  },
+  {
+    "actor": "rahul.singh@company.com",
+    "role": "support",
+    "action": "UPDATE_USER",
+    "resource": "/api/secrets/89395",
+    "resourceType": "SECRET",
+    "ipAddress": "42.11.198.78",
+    "region": "eu-west-1",
+    "severity": "HIGH",
+    "status": "False Positive",
+    "timestamp": "2026-07-22T07:07:07.134Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 8
+    }
+  },
+  {
+    "actor": "ananya.iyer@company.com",
+    "role": "admin",
+    "action": "LOGIN",
+    "resource": "/api/reports/51368",
+    "resourceType": "REPORT",
+    "ipAddress": "223.221.0.124",
+    "region": "ap-south-1",
+    "severity": "MEDIUM",
+    "status": "Resolved",
+    "timestamp": "2026-06-20T07:38:04.624Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 9
+    }
+  },
+  {
+    "actor": "ananya.iyer@company.com",
+    "role": "auditor",
+    "action": "EXPORT_DATA",
+    "resource": "/api/secrets/76650",
+    "resourceType": "SECRET",
+    "ipAddress": "204.53.206.88",
+    "region": "ap-south-1",
+    "severity": "HIGH",
+    "status": "Resolved",
+    "timestamp": "2026-07-06T10:13:12.239Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 10
+    }
+  },
+  {
+    "actor": "arjun.kumar@company.com",
+    "role": "admin",
+    "action": "CHANGE_ROLE",
+    "resource": "/api/sessions/615",
+    "resourceType": "SESSION",
+    "ipAddress": "169.179.169.167",
+    "region": "ap-southeast-1",
+    "severity": "MEDIUM",
+    "status": "Investigating",
+    "timestamp": "2026-06-15T23:18:45.168Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 11
+    }
+  },
+  {
+    "actor": "priya.nair@company.com",
+    "role": "admin",
+    "action": "EXPORT_DATA",
+    "resource": "/api/api_keys/12086",
+    "resourceType": "API_KEY",
+    "ipAddress": "144.204.113.2",
+    "region": "eu-west-1",
+    "severity": "CRITICAL",
+    "status": "Unresolved",
+    "timestamp": "2026-06-11T12:20:49.008Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 12
+    }
+  },
+  {
+    "actor": "rahul.singh@company.com",
+    "role": "admin",
+    "action": "CREATE_USER",
+    "resource": "/api/users/12873",
+    "resourceType": "USER",
+    "ipAddress": "190.11.241.5",
+    "region": "ap-south-1",
+    "severity": "CRITICAL",
+    "status": "False Positive",
+    "timestamp": "2026-05-22T05:46:47.634Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 13
+    }
+  },
+  {
+    "actor": "rahul.singh@company.com",
+    "role": "support",
+    "action": "UPDATE_USER",
+    "resource": "/api/reports/60491",
+    "resourceType": "REPORT",
+    "ipAddress": "174.96.99.114",
+    "region": "eu-west-1",
+    "severity": "CRITICAL",
+    "status": "False Positive",
+    "timestamp": "2026-06-10T06:47:30.532Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 14
+    }
+  },
+  {
+    "actor": "ananya.iyer@company.com",
+    "role": "auditor",
+    "action": "CHANGE_ROLE",
+    "resource": "/api/roles/31624",
+    "resourceType": "ROLE",
+    "ipAddress": "217.144.183.133",
+    "region": "ap-south-1",
+    "severity": "LOW",
+    "status": "Unresolved",
+    "timestamp": "2026-05-03T04:19:35.966Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 15
+    }
+  },
+  {
+    "actor": "ananya.iyer@company.com",
+    "role": "support",
+    "action": "DELETE_USER",
+    "resource": "/api/api_keys/7368",
+    "resourceType": "API_KEY",
+    "ipAddress": "88.153.55.168",
+    "region": "ap-south-1",
+    "severity": "MEDIUM",
+    "status": "Unresolved",
+    "timestamp": "2026-05-18T20:00:07.664Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 16
+    }
+  },
+  {
+    "actor": "rahul.singh@company.com",
+    "role": "support",
+    "action": "UPDATE_USER",
+    "resource": "/api/roles/16756",
+    "resourceType": "ROLE",
+    "ipAddress": "165.79.99.197",
+    "region": "ap-southeast-1",
+    "severity": "CRITICAL",
+    "status": "False Positive",
+    "timestamp": "2026-07-21T10:16:21.610Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 17
+    }
+  },
+  {
+    "actor": "meera.shah@company.com",
+    "role": "security_engineer",
+    "action": "DELETE_USER",
+    "resource": "/api/roles/6248",
+    "resourceType": "ROLE",
+    "ipAddress": "218.128.243.248",
+    "region": "ap-southeast-1",
+    "severity": "LOW",
+    "status": "False Positive",
+    "timestamp": "2026-05-22T16:46:53.532Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 18
+    }
+  },
+  {
+    "actor": "vikram.rao@company.com",
+    "role": "admin",
+    "action": "CHANGE_ROLE",
+    "resource": "/api/sessions/76766",
+    "resourceType": "SESSION",
+    "ipAddress": "2.1.220.255",
+    "region": "us-east-1",
+    "severity": "HIGH",
+    "status": "Unresolved",
+    "timestamp": "2026-05-21T16:12:08.926Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 19
+    }
+  },
+  {
+    "actor": "vikram.rao@company.com",
+    "role": "developer",
+    "action": "UPDATE_USER",
+    "resource": "/api/roles/82868",
+    "resourceType": "ROLE",
+    "ipAddress": "121.186.104.0",
+    "region": "us-east-1",
+    "severity": "LOW",
+    "status": "Resolved",
+    "timestamp": "2026-06-01T01:06:39.807Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 20
+    }
+  },
+  {
+    "actor": "arjun.kumar@company.com",
+    "role": "support",
+    "action": "CREATE_USER",
+    "resource": "/api/sessions/68917",
+    "resourceType": "SESSION",
+    "ipAddress": "109.32.250.193",
+    "region": "eu-west-1",
+    "severity": "CRITICAL",
+    "status": "False Positive",
+    "timestamp": "2026-07-05T20:46:55.920Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 21
+    }
+  },
+  {
+    "actor": "meera.shah@company.com",
+    "role": "security_engineer",
+    "action": "CHANGE_ROLE",
+    "resource": "/api/secrets/46762",
+    "resourceType": "SECRET",
+    "ipAddress": "114.91.184.76",
+    "region": "us-east-1",
+    "severity": "MEDIUM",
+    "status": "False Positive",
+    "timestamp": "2026-05-05T10:58:47.889Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 22
+    }
+  },
+  {
+    "actor": "rahul.singh@company.com",
+    "role": "auditor",
+    "action": "EXPORT_DATA",
+    "resource": "/api/users/31386",
+    "resourceType": "USER",
+    "ipAddress": "107.9.38.140",
+    "region": "us-east-1",
+    "severity": "CRITICAL",
+    "status": "False Positive",
+    "timestamp": "2026-07-17T06:33:12.534Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 23
+    }
+  },
+  {
+    "actor": "ananya.iyer@company.com",
+    "role": "developer",
+    "action": "UPDATE_USER",
+    "resource": "/api/roles/66506",
+    "resourceType": "ROLE",
+    "ipAddress": "121.9.139.96",
+    "region": "ap-southeast-1",
+    "severity": "MEDIUM",
+    "status": "False Positive",
+    "timestamp": "2026-05-13T15:57:16.931Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 24
+    }
+  },
+  {
+    "actor": "vikram.rao@company.com",
+    "role": "security_engineer",
+    "action": "UPDATE_USER",
+    "resource": "/api/secrets/3758",
+    "resourceType": "SECRET",
+    "ipAddress": "151.121.244.60",
+    "region": "eu-west-1",
+    "severity": "HIGH",
+    "status": "False Positive",
+    "timestamp": "2026-06-10T22:55:46.753Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 25
+    }
+  },
+  {
+    "actor": "ananya.iyer@company.com",
+    "role": "auditor",
+    "action": "EXPORT_DATA",
+    "resource": "/api/roles/18034",
+    "resourceType": "ROLE",
+    "ipAddress": "144.253.141.231",
+    "region": "us-east-1",
+    "severity": "LOW",
+    "status": "False Positive",
+    "timestamp": "2026-04-30T04:41:48.913Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 26
+    }
+  },
+  {
+    "actor": "ananya.iyer@company.com",
+    "role": "developer",
+    "action": "DELETE_USER",
+    "resource": "/api/api_keys/474",
+    "resourceType": "API_KEY",
+    "ipAddress": "219.197.11.31",
+    "region": "ap-southeast-1",
+    "severity": "MEDIUM",
+    "status": "False Positive",
+    "timestamp": "2026-07-14T11:25:23.188Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 27
+    }
+  },
+  {
+    "actor": "arjun.kumar@company.com",
+    "role": "auditor",
+    "action": "CHANGE_ROLE",
+    "resource": "/api/roles/88896",
+    "resourceType": "ROLE",
+    "ipAddress": "114.155.21.19",
+    "region": "eu-west-1",
+    "severity": "CRITICAL",
+    "status": "Investigating",
+    "timestamp": "2026-05-27T19:14:06.361Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 28
+    }
+  },
+  {
+    "actor": "arjun.kumar@company.com",
+    "role": "developer",
+    "action": "CREATE_USER",
+    "resource": "/api/users/81511",
+    "resourceType": "USER",
+    "ipAddress": "18.210.42.94",
+    "region": "ap-south-1",
+    "severity": "CRITICAL",
+    "status": "False Positive",
+    "timestamp": "2026-05-28T04:43:22.019Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 29
+    }
+  },
+  {
+    "actor": "arjun.kumar@company.com",
+    "role": "auditor",
+    "action": "LOGOUT",
+    "resource": "/api/sessions/86460",
+    "resourceType": "SESSION",
+    "ipAddress": "210.137.115.50",
+    "region": "us-east-1",
+    "severity": "HIGH",
+    "status": "Unresolved",
+    "timestamp": "2026-07-04T01:12:04.761Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 30
+    }
+  },
+  {
+    "actor": "priya.nair@company.com",
+    "role": "support",
+    "action": "UPDATE_USER",
+    "resource": "/api/sessions/9852",
+    "resourceType": "SESSION",
+    "ipAddress": "154.65.237.117",
+    "region": "us-east-1",
+    "severity": "MEDIUM",
+    "status": "Resolved",
+    "timestamp": "2026-05-28T05:26:14.481Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 31
+    }
+  },
+  {
+    "actor": "meera.shah@company.com",
+    "role": "security_engineer",
+    "action": "EXPORT_DATA",
+    "resource": "/api/api_keys/2568",
+    "resourceType": "API_KEY",
+    "ipAddress": "69.249.13.38",
+    "region": "ap-southeast-1",
+    "severity": "CRITICAL",
+    "status": "False Positive",
+    "timestamp": "2026-05-15T14:51:51.144Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 32
+    }
+  },
+  {
+    "actor": "vikram.rao@company.com",
+    "role": "auditor",
+    "action": "CREATE_USER",
+    "resource": "/api/roles/5159",
+    "resourceType": "ROLE",
+    "ipAddress": "175.205.209.106",
+    "region": "eu-west-1",
+    "severity": "LOW",
+    "status": "Investigating",
+    "timestamp": "2026-07-17T05:43:27.300Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 33
+    }
+  },
+  {
+    "actor": "vikram.rao@company.com",
+    "role": "auditor",
+    "action": "CREATE_USER",
+    "resource": "/api/sessions/38175",
+    "resourceType": "SESSION",
+    "ipAddress": "157.35.156.186",
+    "region": "ap-southeast-1",
+    "severity": "MEDIUM",
+    "status": "Investigating",
+    "timestamp": "2026-06-22T06:21:30.291Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 34
+    }
+  },
+  {
+    "actor": "rahul.singh@company.com",
+    "role": "support",
+    "action": "CHANGE_ROLE",
+    "resource": "/api/sessions/30376",
+    "resourceType": "SESSION",
+    "ipAddress": "189.82.234.242",
+    "region": "ap-south-1",
+    "severity": "HIGH",
+    "status": "False Positive",
+    "timestamp": "2026-07-22T03:05:56.140Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 35
+    }
+  },
+  {
+    "actor": "ananya.iyer@company.com",
+    "role": "auditor",
+    "action": "CREATE_USER",
+    "resource": "/api/reports/29856",
+    "resourceType": "REPORT",
+    "ipAddress": "155.97.101.84",
+    "region": "ap-south-1",
+    "severity": "CRITICAL",
+    "status": "False Positive",
+    "timestamp": "2026-06-14T02:41:45.160Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 36
+    }
+  },
+  {
+    "actor": "arjun.kumar@company.com",
+    "role": "developer",
+    "action": "CHANGE_ROLE",
+    "resource": "/api/reports/33063",
+    "resourceType": "REPORT",
+    "ipAddress": "70.70.176.187",
+    "region": "us-east-1",
+    "severity": "CRITICAL",
+    "status": "Investigating",
+    "timestamp": "2026-07-08T23:38:32.100Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 37
+    }
+  },
+  {
+    "actor": "priya.nair@company.com",
+    "role": "support",
+    "action": "LOGOUT",
+    "resource": "/api/api_keys/38778",
+    "resourceType": "API_KEY",
+    "ipAddress": "196.205.19.246",
+    "region": "ap-south-1",
+    "severity": "CRITICAL",
+    "status": "False Positive",
+    "timestamp": "2026-07-11T04:04:30.729Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 38
+    }
+  },
+  {
+    "actor": "ananya.iyer@company.com",
+    "role": "auditor",
+    "action": "CREATE_USER",
+    "resource": "/api/roles/24139",
+    "resourceType": "ROLE",
+    "ipAddress": "112.138.31.157",
+    "region": "ap-south-1",
+    "severity": "LOW",
+    "status": "Resolved",
+    "timestamp": "2026-06-18T01:27:08.232Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 39
+    }
+  },
+  {
+    "actor": "vikram.rao@company.com",
+    "role": "developer",
+    "action": "LOGOUT",
+    "resource": "/api/users/74352",
+    "resourceType": "USER",
+    "ipAddress": "14.226.125.106",
+    "region": "ap-southeast-1",
+    "severity": "MEDIUM",
+    "status": "Resolved",
+    "timestamp": "2026-06-06T13:23:46.501Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 40
+    }
+  },
+  {
+    "actor": "arjun.kumar@company.com",
+    "role": "auditor",
+    "action": "EXPORT_DATA",
+    "resource": "/api/roles/15729",
+    "resourceType": "ROLE",
+    "ipAddress": "164.130.43.33",
+    "region": "ap-south-1",
+    "severity": "MEDIUM",
+    "status": "Unresolved",
+    "timestamp": "2026-06-15T11:17:17.756Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 41
+    }
+  },
+  {
+    "actor": "vikram.rao@company.com",
+    "role": "admin",
+    "action": "DELETE_USER",
+    "resource": "/api/roles/10671",
+    "resourceType": "ROLE",
+    "ipAddress": "4.157.24.53",
+    "region": "ap-south-1",
+    "severity": "CRITICAL",
+    "status": "Investigating",
+    "timestamp": "2026-05-02T02:26:10.318Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 42
+    }
+  },
+  {
+    "actor": "priya.nair@company.com",
+    "role": "security_engineer",
+    "action": "EXPORT_DATA",
+    "resource": "/api/sessions/41039",
+    "resourceType": "SESSION",
+    "ipAddress": "152.209.43.133",
+    "region": "eu-west-1",
+    "severity": "LOW",
+    "status": "Resolved",
+    "timestamp": "2026-06-26T19:26:16.449Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 43
+    }
+  },
+  {
+    "actor": "ananya.iyer@company.com",
+    "role": "auditor",
+    "action": "LOGOUT",
+    "resource": "/api/secrets/87023",
+    "resourceType": "SECRET",
+    "ipAddress": "145.13.230.44",
+    "region": "ap-southeast-1",
+    "severity": "MEDIUM",
+    "status": "Unresolved",
+    "timestamp": "2026-06-09T21:34:55.699Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 44
+    }
+  },
+  {
+    "actor": "meera.shah@company.com",
+    "role": "auditor",
+    "action": "UPDATE_USER",
+    "resource": "/api/sessions/71062",
+    "resourceType": "SESSION",
+    "ipAddress": "206.138.226.222",
+    "region": "eu-west-1",
+    "severity": "HIGH",
+    "status": "Resolved",
+    "timestamp": "2026-06-29T04:20:43.963Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 45
+    }
+  },
+  {
+    "actor": "meera.shah@company.com",
+    "role": "auditor",
+    "action": "READ_SECRET",
+    "resource": "/api/sessions/1390",
+    "resourceType": "SESSION",
+    "ipAddress": "100.125.166.21",
+    "region": "eu-west-1",
+    "severity": "LOW",
+    "status": "Unresolved",
+    "timestamp": "2026-04-30T14:04:42.489Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 46
+    }
+  },
+  {
+    "actor": "vikram.rao@company.com",
+    "role": "developer",
+    "action": "EXPORT_DATA",
+    "resource": "/api/api_keys/89088",
+    "resourceType": "API_KEY",
+    "ipAddress": "158.162.161.249",
+    "region": "us-east-1",
+    "severity": "LOW",
+    "status": "Investigating",
+    "timestamp": "2026-04-29T01:31:11.183Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 47
+    }
+  },
+  {
+    "actor": "rahul.singh@company.com",
+    "role": "support",
+    "action": "LOGOUT",
+    "resource": "/api/users/14189",
+    "resourceType": "USER",
+    "ipAddress": "149.143.49.168",
+    "region": "ap-southeast-1",
+    "severity": "MEDIUM",
+    "status": "Investigating",
+    "timestamp": "2026-06-19T11:13:03.612Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 48
+    }
+  },
+  {
+    "actor": "rahul.singh@company.com",
+    "role": "support",
+    "action": "READ_SECRET",
+    "resource": "/api/secrets/15635",
+    "resourceType": "SECRET",
+    "ipAddress": "13.135.95.44",
+    "region": "us-east-1",
+    "severity": "HIGH",
+    "status": "False Positive",
+    "timestamp": "2026-05-04T06:19:56.522Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 49
+    }
+  },
+  {
+    "actor": "arjun.kumar@company.com",
+    "role": "developer",
+    "action": "LOGIN",
+    "resource": "/api/secrets/88574",
+    "resourceType": "SECRET",
+    "ipAddress": "32.20.231.230",
+    "region": "ap-southeast-1",
+    "severity": "LOW",
+    "status": "Unresolved",
+    "timestamp": "2026-05-05T06:23:17.680Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 50
+    }
+  },
+  {
+    "actor": "priya.nair@company.com",
+    "role": "support",
+    "action": "LOGIN",
+    "resource": "/api/sessions/85920",
+    "resourceType": "SESSION",
+    "ipAddress": "44.253.168.6",
+    "region": "eu-west-1",
+    "severity": "LOW",
+    "status": "Unresolved",
+    "timestamp": "2026-07-09T10:33:19.504Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 51
+    }
+  },
+  {
+    "actor": "ananya.iyer@company.com",
+    "role": "support",
+    "action": "DELETE_USER",
+    "resource": "/api/secrets/63464",
+    "resourceType": "SECRET",
+    "ipAddress": "122.8.60.237",
+    "region": "eu-west-1",
+    "severity": "LOW",
+    "status": "False Positive",
+    "timestamp": "2026-05-22T16:27:52.548Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 52
+    }
+  },
+  {
+    "actor": "ananya.iyer@company.com",
+    "role": "developer",
+    "action": "CREATE_USER",
+    "resource": "/api/secrets/25070",
+    "resourceType": "SECRET",
+    "ipAddress": "42.13.208.93",
+    "region": "ap-south-1",
+    "severity": "HIGH",
+    "status": "False Positive",
+    "timestamp": "2026-04-25T20:14:48.051Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 53
+    }
+  },
+  {
+    "actor": "ananya.iyer@company.com",
+    "role": "support",
+    "action": "CHANGE_ROLE",
+    "resource": "/api/reports/17962",
+    "resourceType": "REPORT",
+    "ipAddress": "185.223.110.67",
+    "region": "eu-west-1",
+    "severity": "CRITICAL",
+    "status": "Unresolved",
+    "timestamp": "2026-06-02T13:28:49.490Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 54
+    }
+  },
+  {
+    "actor": "meera.shah@company.com",
+    "role": "auditor",
+    "action": "EXPORT_DATA",
+    "resource": "/api/roles/26690",
+    "resourceType": "ROLE",
+    "ipAddress": "72.131.119.207",
+    "region": "ap-south-1",
+    "severity": "HIGH",
+    "status": "Resolved",
+    "timestamp": "2026-06-14T08:57:55.954Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 55
+    }
+  },
+  {
+    "actor": "priya.nair@company.com",
+    "role": "security_engineer",
+    "action": "DELETE_USER",
+    "resource": "/api/sessions/49992",
+    "resourceType": "SESSION",
+    "ipAddress": "167.150.131.102",
+    "region": "eu-west-1",
+    "severity": "LOW",
+    "status": "False Positive",
+    "timestamp": "2026-05-14T16:23:48.936Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 56
+    }
+  },
+  {
+    "actor": "ananya.iyer@company.com",
+    "role": "support",
+    "action": "CHANGE_ROLE",
+    "resource": "/api/reports/82537",
+    "resourceType": "REPORT",
+    "ipAddress": "120.134.173.23",
+    "region": "ap-south-1",
+    "severity": "CRITICAL",
+    "status": "Unresolved",
+    "timestamp": "2026-05-26T11:00:42.943Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 57
+    }
+  },
+  {
+    "actor": "meera.shah@company.com",
+    "role": "auditor",
+    "action": "UPDATE_USER",
+    "resource": "/api/roles/75587",
+    "resourceType": "ROLE",
+    "ipAddress": "204.23.30.233",
+    "region": "ap-southeast-1",
+    "severity": "MEDIUM",
+    "status": "Unresolved",
+    "timestamp": "2026-04-28T20:12:42.602Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 58
+    }
+  },
+  {
+    "actor": "vikram.rao@company.com",
+    "role": "support",
+    "action": "DELETE_USER",
+    "resource": "/api/roles/5768",
+    "resourceType": "ROLE",
+    "ipAddress": "121.89.255.163",
+    "region": "ap-south-1",
+    "severity": "MEDIUM",
+    "status": "Unresolved",
+    "timestamp": "2026-07-18T20:09:07.547Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 59
+    }
+  },
+  {
+    "actor": "meera.shah@company.com",
+    "role": "security_engineer",
+    "action": "LOGOUT",
+    "resource": "/api/reports/38367",
+    "resourceType": "REPORT",
+    "ipAddress": "171.15.20.225",
+    "region": "ap-southeast-1",
+    "severity": "HIGH",
+    "status": "Investigating",
+    "timestamp": "2026-05-15T01:57:32.127Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 60
+    }
+  },
+  {
+    "actor": "rahul.singh@company.com",
+    "role": "admin",
+    "action": "EXPORT_DATA",
+    "resource": "/api/users/54804",
+    "resourceType": "USER",
+    "ipAddress": "204.66.221.97",
+    "region": "us-east-1",
+    "severity": "CRITICAL",
+    "status": "Investigating",
+    "timestamp": "2026-06-17T23:58:41.362Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 61
+    }
+  },
+  {
+    "actor": "priya.nair@company.com",
+    "role": "auditor",
+    "action": "DELETE_USER",
+    "resource": "/api/roles/30304",
+    "resourceType": "ROLE",
+    "ipAddress": "40.204.229.120",
+    "region": "ap-southeast-1",
+    "severity": "MEDIUM",
+    "status": "False Positive",
+    "timestamp": "2026-06-25T16:19:14.271Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 62
+    }
+  },
+  {
+    "actor": "meera.shah@company.com",
+    "role": "developer",
+    "action": "DELETE_USER",
+    "resource": "/api/reports/30192",
+    "resourceType": "REPORT",
+    "ipAddress": "168.142.5.83",
+    "region": "eu-west-1",
+    "severity": "HIGH",
+    "status": "Unresolved",
+    "timestamp": "2026-07-22T00:47:53.540Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 63
+    }
+  },
+  {
+    "actor": "rahul.singh@company.com",
+    "role": "developer",
+    "action": "LOGOUT",
+    "resource": "/api/users/68453",
+    "resourceType": "USER",
+    "ipAddress": "42.91.178.75",
+    "region": "us-east-1",
+    "severity": "CRITICAL",
+    "status": "False Positive",
+    "timestamp": "2026-07-01T15:53:37.363Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 64
+    }
+  },
+  {
+    "actor": "arjun.kumar@company.com",
+    "role": "security_engineer",
+    "action": "CHANGE_ROLE",
+    "resource": "/api/users/51782",
+    "resourceType": "USER",
+    "ipAddress": "183.83.229.229",
+    "region": "eu-west-1",
+    "severity": "CRITICAL",
+    "status": "Investigating",
+    "timestamp": "2026-06-25T18:02:46.805Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 65
+    }
+  },
+  {
+    "actor": "arjun.kumar@company.com",
+    "role": "auditor",
+    "action": "LOGIN",
+    "resource": "/api/roles/1512",
+    "resourceType": "ROLE",
+    "ipAddress": "60.244.71.103",
+    "region": "ap-southeast-1",
+    "severity": "LOW",
+    "status": "False Positive",
+    "timestamp": "2026-07-19T22:05:59.955Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 66
+    }
+  },
+  {
+    "actor": "rahul.singh@company.com",
+    "role": "auditor",
+    "action": "EXPORT_DATA",
+    "resource": "/api/users/85820",
+    "resourceType": "USER",
+    "ipAddress": "216.243.101.251",
+    "region": "us-east-1",
+    "severity": "LOW",
+    "status": "Investigating",
+    "timestamp": "2026-06-07T14:15:28.470Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 67
+    }
+  },
+  {
+    "actor": "vikram.rao@company.com",
+    "role": "auditor",
+    "action": "EXPORT_DATA",
+    "resource": "/api/sessions/68748",
+    "resourceType": "SESSION",
+    "ipAddress": "13.59.198.252",
+    "region": "ap-south-1",
+    "severity": "CRITICAL",
+    "status": "Investigating",
+    "timestamp": "2026-05-24T14:10:56.578Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 68
+    }
+  },
+  {
+    "actor": "meera.shah@company.com",
+    "role": "auditor",
+    "action": "LOGIN",
+    "resource": "/api/users/83022",
+    "resourceType": "USER",
+    "ipAddress": "175.88.179.40",
+    "region": "us-east-1",
+    "severity": "LOW",
+    "status": "False Positive",
+    "timestamp": "2026-06-28T01:32:31.895Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 69
+    }
+  },
+  {
+    "actor": "priya.nair@company.com",
+    "role": "support",
+    "action": "LOGIN",
+    "resource": "/api/api_keys/88669",
+    "resourceType": "API_KEY",
+    "ipAddress": "48.42.72.11",
+    "region": "ap-southeast-1",
+    "severity": "LOW",
+    "status": "Investigating",
+    "timestamp": "2026-06-04T04:47:26.092Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 70
+    }
+  },
+  {
+    "actor": "priya.nair@company.com",
+    "role": "security_engineer",
+    "action": "READ_SECRET",
+    "resource": "/api/roles/16460",
+    "resourceType": "ROLE",
+    "ipAddress": "100.85.46.176",
+    "region": "ap-south-1",
+    "severity": "HIGH",
+    "status": "Resolved",
+    "timestamp": "2026-07-17T10:19:42.681Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 71
+    }
+  },
+  {
+    "actor": "rahul.singh@company.com",
+    "role": "admin",
+    "action": "LOGOUT",
+    "resource": "/api/roles/39849",
+    "resourceType": "ROLE",
+    "ipAddress": "184.121.116.90",
+    "region": "ap-southeast-1",
+    "severity": "MEDIUM",
+    "status": "Resolved",
+    "timestamp": "2026-05-11T16:11:10.060Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 72
+    }
+  },
+  {
+    "actor": "vikram.rao@company.com",
+    "role": "admin",
+    "action": "DELETE_USER",
+    "resource": "/api/reports/36887",
+    "resourceType": "REPORT",
+    "ipAddress": "24.235.156.156",
+    "region": "eu-west-1",
+    "severity": "LOW",
+    "status": "False Positive",
+    "timestamp": "2026-05-06T02:56:46.884Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 73
+    }
+  },
+  {
+    "actor": "priya.nair@company.com",
+    "role": "support",
+    "action": "LOGIN",
+    "resource": "/api/sessions/47687",
+    "resourceType": "SESSION",
+    "ipAddress": "216.184.180.127",
+    "region": "ap-southeast-1",
+    "severity": "LOW",
+    "status": "Resolved",
+    "timestamp": "2026-07-06T21:31:18.981Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 74
+    }
+  },
+  {
+    "actor": "arjun.kumar@company.com",
+    "role": "admin",
+    "action": "DELETE_USER",
+    "resource": "/api/roles/33943",
+    "resourceType": "ROLE",
+    "ipAddress": "12.219.20.22",
+    "region": "ap-south-1",
+    "severity": "LOW",
+    "status": "False Positive",
+    "timestamp": "2026-04-28T06:01:23.250Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 75
+    }
+  },
+  {
+    "actor": "rahul.singh@company.com",
+    "role": "auditor",
+    "action": "LOGIN",
+    "resource": "/api/secrets/85960",
+    "resourceType": "SECRET",
+    "ipAddress": "193.125.244.63",
+    "region": "us-east-1",
+    "severity": "MEDIUM",
+    "status": "Resolved",
+    "timestamp": "2026-07-09T20:33:12.250Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 76
+    }
+  },
+  {
+    "actor": "ananya.iyer@company.com",
+    "role": "security_engineer",
+    "action": "READ_SECRET",
+    "resource": "/api/users/44734",
+    "resourceType": "USER",
+    "ipAddress": "53.192.176.82",
+    "region": "ap-southeast-1",
+    "severity": "LOW",
+    "status": "False Positive",
+    "timestamp": "2026-04-30T18:31:33.771Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 77
+    }
+  },
+  {
+    "actor": "ananya.iyer@company.com",
+    "role": "security_engineer",
+    "action": "LOGIN",
+    "resource": "/api/api_keys/25678",
+    "resourceType": "API_KEY",
+    "ipAddress": "181.21.124.16",
+    "region": "us-east-1",
+    "severity": "LOW",
+    "status": "Unresolved",
+    "timestamp": "2026-05-28T14:26:06.308Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 78
+    }
+  },
+  {
+    "actor": "meera.shah@company.com",
+    "role": "auditor",
+    "action": "UPDATE_USER",
+    "resource": "/api/api_keys/44712",
+    "resourceType": "API_KEY",
+    "ipAddress": "80.188.124.36",
+    "region": "ap-south-1",
+    "severity": "CRITICAL",
+    "status": "False Positive",
+    "timestamp": "2026-07-12T18:18:39.515Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 79
+    }
+  },
+  {
+    "actor": "priya.nair@company.com",
+    "role": "admin",
+    "action": "CHANGE_ROLE",
+    "resource": "/api/sessions/85146",
+    "resourceType": "SESSION",
+    "ipAddress": "183.224.37.156",
+    "region": "ap-south-1",
+    "severity": "HIGH",
+    "status": "Investigating",
+    "timestamp": "2026-07-14T18:19:38.567Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 80
+    }
+  },
+  {
+    "actor": "vikram.rao@company.com",
+    "role": "support",
+    "action": "LOGOUT",
+    "resource": "/api/sessions/84327",
+    "resourceType": "SESSION",
+    "ipAddress": "168.154.96.188",
+    "region": "ap-south-1",
+    "severity": "CRITICAL",
+    "status": "False Positive",
+    "timestamp": "2026-07-12T13:38:25.341Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 81
+    }
+  },
+  {
+    "actor": "ananya.iyer@company.com",
+    "role": "developer",
+    "action": "READ_SECRET",
+    "resource": "/api/users/87136",
+    "resourceType": "USER",
+    "ipAddress": "78.195.166.196",
+    "region": "ap-southeast-1",
+    "severity": "CRITICAL",
+    "status": "Investigating",
+    "timestamp": "2026-06-22T21:10:30.603Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 82
+    }
+  },
+  {
+    "actor": "arjun.kumar@company.com",
+    "role": "security_engineer",
+    "action": "DELETE_USER",
+    "resource": "/api/users/31229",
+    "resourceType": "USER",
+    "ipAddress": "90.244.43.169",
+    "region": "ap-south-1",
+    "severity": "LOW",
+    "status": "Unresolved",
+    "timestamp": "2026-07-03T12:53:20.123Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 83
+    }
+  },
+  {
+    "actor": "priya.nair@company.com",
+    "role": "security_engineer",
+    "action": "EXPORT_DATA",
+    "resource": "/api/users/84565",
+    "resourceType": "USER",
+    "ipAddress": "65.188.213.41",
+    "region": "ap-south-1",
+    "severity": "HIGH",
+    "status": "Unresolved",
+    "timestamp": "2026-06-29T13:01:24.237Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 84
+    }
+  },
+  {
+    "actor": "vikram.rao@company.com",
+    "role": "admin",
+    "action": "READ_SECRET",
+    "resource": "/api/api_keys/82337",
+    "resourceType": "API_KEY",
+    "ipAddress": "89.195.128.205",
+    "region": "ap-south-1",
+    "severity": "HIGH",
+    "status": "False Positive",
+    "timestamp": "2026-07-10T01:48:09.889Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 85
+    }
+  },
+  {
+    "actor": "priya.nair@company.com",
+    "role": "auditor",
+    "action": "EXPORT_DATA",
+    "resource": "/api/secrets/71487",
+    "resourceType": "SECRET",
+    "ipAddress": "219.207.28.29",
+    "region": "us-east-1",
+    "severity": "HIGH",
+    "status": "Resolved",
+    "timestamp": "2026-07-21T04:50:11.438Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 86
+    }
+  },
+  {
+    "actor": "rahul.singh@company.com",
+    "role": "developer",
+    "action": "UPDATE_USER",
+    "resource": "/api/api_keys/26060",
+    "resourceType": "API_KEY",
+    "ipAddress": "195.194.249.150",
+    "region": "eu-west-1",
+    "severity": "CRITICAL",
+    "status": "Unresolved",
+    "timestamp": "2026-05-22T06:46:27.827Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 87
+    }
+  },
+  {
+    "actor": "rahul.singh@company.com",
+    "role": "support",
+    "action": "EXPORT_DATA",
+    "resource": "/api/users/49781",
+    "resourceType": "USER",
+    "ipAddress": "138.175.80.111",
+    "region": "us-east-1",
+    "severity": "HIGH",
+    "status": "False Positive",
+    "timestamp": "2026-07-06T02:26:49.069Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 88
+    }
+  },
+  {
+    "actor": "vikram.rao@company.com",
+    "role": "support",
+    "action": "READ_SECRET",
+    "resource": "/api/users/32915",
+    "resourceType": "USER",
+    "ipAddress": "70.146.169.58",
+    "region": "eu-west-1",
+    "severity": "CRITICAL",
+    "status": "Resolved",
+    "timestamp": "2026-05-26T00:36:20.919Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 89
+    }
+  },
+  {
+    "actor": "ananya.iyer@company.com",
+    "role": "admin",
+    "action": "READ_SECRET",
+    "resource": "/api/sessions/56738",
+    "resourceType": "SESSION",
+    "ipAddress": "201.95.86.133",
+    "region": "ap-south-1",
+    "severity": "HIGH",
+    "status": "Resolved",
+    "timestamp": "2026-05-02T04:39:05.425Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 90
+    }
+  },
+  {
+    "actor": "priya.nair@company.com",
+    "role": "auditor",
+    "action": "LOGOUT",
+    "resource": "/api/reports/14504",
+    "resourceType": "REPORT",
+    "ipAddress": "86.81.230.170",
+    "region": "us-east-1",
+    "severity": "LOW",
+    "status": "Investigating",
+    "timestamp": "2026-07-14T07:17:53.157Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 91
+    }
+  },
+  {
+    "actor": "arjun.kumar@company.com",
+    "role": "admin",
+    "action": "CHANGE_ROLE",
+    "resource": "/api/sessions/80876",
+    "resourceType": "SESSION",
+    "ipAddress": "221.93.31.80",
+    "region": "eu-west-1",
+    "severity": "MEDIUM",
+    "status": "Resolved",
+    "timestamp": "2026-05-22T21:29:07.615Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 92
+    }
+  },
+  {
+    "actor": "arjun.kumar@company.com",
+    "role": "support",
+    "action": "LOGOUT",
+    "resource": "/api/api_keys/81367",
+    "resourceType": "API_KEY",
+    "ipAddress": "147.59.64.82",
+    "region": "ap-south-1",
+    "severity": "MEDIUM",
+    "status": "False Positive",
+    "timestamp": "2026-07-12T23:33:03.851Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 93
+    }
+  },
+  {
+    "actor": "vikram.rao@company.com",
+    "role": "support",
+    "action": "CHANGE_ROLE",
+    "resource": "/api/api_keys/81864",
+    "resourceType": "API_KEY",
+    "ipAddress": "64.17.204.12",
+    "region": "eu-west-1",
+    "severity": "CRITICAL",
+    "status": "Unresolved",
+    "timestamp": "2026-04-26T12:05:02.881Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 94
+    }
+  },
+  {
+    "actor": "priya.nair@company.com",
+    "role": "developer",
+    "action": "LOGOUT",
+    "resource": "/api/api_keys/81423",
+    "resourceType": "API_KEY",
+    "ipAddress": "80.126.245.179",
+    "region": "us-east-1",
+    "severity": "CRITICAL",
+    "status": "Investigating",
+    "timestamp": "2026-05-07T05:02:21.352Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 95
+    }
+  },
+  {
+    "actor": "meera.shah@company.com",
+    "role": "support",
+    "action": "UPDATE_USER",
+    "resource": "/api/secrets/44137",
+    "resourceType": "SECRET",
+    "ipAddress": "192.133.58.219",
+    "region": "ap-south-1",
+    "severity": "CRITICAL",
+    "status": "Unresolved",
+    "timestamp": "2026-06-25T08:14:59.482Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 96
+    }
+  },
+  {
+    "actor": "arjun.kumar@company.com",
+    "role": "auditor",
+    "action": "EXPORT_DATA",
+    "resource": "/api/roles/40664",
+    "resourceType": "ROLE",
+    "ipAddress": "18.133.75.195",
+    "region": "us-east-1",
+    "severity": "LOW",
+    "status": "False Positive",
+    "timestamp": "2026-06-03T21:37:21.563Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 97
+    }
+  },
+  {
+    "actor": "priya.nair@company.com",
+    "role": "developer",
+    "action": "LOGOUT",
+    "resource": "/api/sessions/2596",
+    "resourceType": "SESSION",
+    "ipAddress": "38.169.170.138",
+    "region": "ap-southeast-1",
+    "severity": "MEDIUM",
+    "status": "False Positive",
+    "timestamp": "2026-06-10T12:19:02.768Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 98
+    }
+  },
+  {
+    "actor": "vikram.rao@company.com",
+    "role": "support",
+    "action": "CHANGE_ROLE",
+    "resource": "/api/roles/18688",
+    "resourceType": "ROLE",
+    "ipAddress": "151.97.122.102",
+    "region": "us-east-1",
+    "severity": "MEDIUM",
+    "status": "Unresolved",
+    "timestamp": "2026-06-25T02:23:17.444Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 99
+    }
+  },
+  {
+    "actor": "ananya.iyer@company.com",
+    "role": "support",
+    "action": "CREATE_USER",
+    "resource": "/api/users/49298",
+    "resourceType": "USER",
+    "ipAddress": "138.42.37.143",
+    "region": "us-east-1",
+    "severity": "HIGH",
+    "status": "Unresolved",
+    "timestamp": "2026-04-26T12:07:17.862Z",
+    "metadata": {
+      "source": "generated",
+      "sequence": 100
+    }
+  }
+]
